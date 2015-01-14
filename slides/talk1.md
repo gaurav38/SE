@@ -21,8 +21,8 @@ Table:  Demonstration of simple table syntax.
 
 The ziffness of dorkies must:
 
-- Eat eggs
-- Drink coffee
+- Eat vegetables
+- Drink milk
 
 # In the evening
 
